@@ -59,11 +59,12 @@ nacifgaya@gmail.com
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain.svg" title="MongoDB" />
   </kbd>
   <kbd>
-    <kbd>System, Networking & Deployment</kbd>
+    <kbd>Networking & Deployment</kbd>
     <br><br>
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-plain.svg" title="Azure" />
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" title="Git" />
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" title="Docker" />
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" title="Vercel" />
+    <img width="30px" src="https://railway.app/brand/logo-dark.svg" title="Railway" />
   </kbd>
   <kbd>
     <kbd>Tools</kbd>
@@ -72,14 +73,7 @@ nacifgaya@gmail.com
     <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" title="Visual Studio" />
     <img width="30px" src="https://img.icons8.com/color/48/000000/mongodb.png" title="MongoDB Compass" />
   </kbd>
-  <kbd>
-    <kbd>Hosting & Deployment</kbd>
-    <br><br>
-    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" title="Vercel" />
-    <img width="30px" src="https://railway.app/brand/logo-dark.svg" title="Railway" />
-  </kbd>
 </p>
-
 
 ---
 
