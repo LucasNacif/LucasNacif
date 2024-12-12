@@ -1,5 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FF3670&size=35&center=true&vCenter=true&width=1000&lines=Hola,+soy+Lucas!)](https://git.io/typing-svg)
-<h3 align="center">Desarrollador Backend Junior 🚀</h3>
+<h3 align="center">Desarrollador Junior 🚀</h3>
 
 # 💫 Sobre mi:
 
@@ -15,7 +15,7 @@ Proyectos backend
 Nuevos frameworks en el desarrollo de software. Explorando TypeScript  
 
 ⚡ **Dato curioso:**  
-Soy un apasionado de los autos y la tecnologia 🎵.
+Soy un apasionado de los autos y la tecnologia.
 
 💬 **Envíame un correo:**  
 nacifgaya@gmail.com 
