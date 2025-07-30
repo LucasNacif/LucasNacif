@@ -1,8 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FF3670&size=35&center=true&vCenter=true&width=1000&lines=Hola,+soy+Lucas!)](https://git.io/typing-svg)
 
-<h3 align="center">🚀 Desarrollador Backend Junior | Apasionado por la tecnología y el aprendizaje constante</h3>
+<h3 align="center">🚀 Desarrollador Backend </h3>
 
----
 
 # 💫 Sobre mí
 
@@ -32,7 +31,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="30px" title="SQLite" /> &nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="30px" title="SQL Server" /> &nbsp;
 
-### 🔌 ORMs y ODMs  
+#### 🔌 ORMs y ODMs  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" width="30px" title="Prisma" /> &nbsp;
 <img src="https://avatars.githubusercontent.com/u/20165699?s=200&v=4" width="31px" title="TypeORM" /> &nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" width="30px" title="Sequelize" />
